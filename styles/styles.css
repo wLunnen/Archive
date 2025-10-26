@@ -11,7 +11,7 @@ body {
 header {
   background: #800000;
   text-align: center;
-  text-color: #FFFFFF;
+  color: #FFFFFF;
 }
 
 h1 {
@@ -87,5 +87,5 @@ input[type="file"] {
 .footer {
   background: #800000;
   text-align: center;
-  text-color: #FFFFFF;
+  color: #FFFFFF;
 }
